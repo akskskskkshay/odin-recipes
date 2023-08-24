@@ -3,6 +3,6 @@ TOP recipes website repo
 
 Recipes Website 
 
-Skills Required to do this project:
+User Skills:
 Basic HTML knowledge and Git and Github basics!
-and working with files from terminal!
+Working with files from terminal!
