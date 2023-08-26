@@ -1,0 +1,52 @@
+body{
+    background-color: antiquewhite;
+}
+
+.ingredients{
+    text-align: right;
+}
+
+.hd {
+    background-color: beige;
+    text-align: center;
+    font-size: 40px;
+}
+
+.hd#main-heading{
+    font-size: 80px;
+}
+
+.details{
+    color: rgb(27, 80, 3);
+    text-align: center;
+}
+
+#maccheese{
+    margin-left: 43%;
+    width: 15%;
+    height: auto;
+}
+
+#italian-chicken{
+    margin-left: 35%;
+    width: 30%;
+    height: auto;
+}
+
+#crv{
+    margin-left: 33%;
+    width: 35%;
+    height: auto;
+}
+
+ol p{
+    font-size: 30px;
+}
+
+.ingredients p{
+    font-size: 30px;
+}
+
+p{
+    font-size: larger;
+}
