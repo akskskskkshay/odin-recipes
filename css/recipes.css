@@ -22,8 +22,8 @@ body{
 }
 
 #maccheese{
-    margin-left: 43%;
-    width: 15%;
+    margin-left: 33%;
+    width: 33%;
     height: auto;
 }
 
@@ -49,4 +49,10 @@ ol p{
 
 p{
     font-size: larger;
+}
+
+.gb_btn{
+    background-color: rgb(243, 206, 85);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
 }
